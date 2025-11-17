@@ -1,8 +1,10 @@
-📄 Privacy Policy
+Privacy Policy
 
 Last updated: 17/11/2025
 
 This Privacy Policy explains how the Discord bot (“the Bot”) collects and uses data.
+
+---
 
 1. Data the Bot Collects
 
@@ -10,6 +12,8 @@ The Bot only collects the minimum data required for functionality, such as:
 - User IDs and message content necessary for command execution
 - Server IDs and configuration settings
 - Temporary content for AI processing (if applicable)
+
+---
 
 The Bot does NOT store:
 - Direct messages
