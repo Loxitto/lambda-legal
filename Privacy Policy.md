@@ -1,4 +1,4 @@
-Privacy Policy
+# Privacy Policy
 
 Last updated: 17/11/2025
 
@@ -22,6 +22,8 @@ The Bot does NOT store:
 
 All processing is performed in real time unless otherwise stated.
 
+---
+
 2. AI Processing
 
 If the Bot uses third-party AI APIs (e.g., OpenAI, xAI, etc.):
@@ -30,21 +32,29 @@ If the Bot uses third-party AI APIs (e.g., OpenAI, xAI, etc.):
 
 Review the AI provider’s privacy policy for how they handle data.
 
+---
+
 3. Data Storage
 
 The Bot may store lightweight configuration data (e.g., settings, preferences, usage limits).
 No personal data or message logs are permanently stored.
 Cached information is deleted automatically when no longer needed.
 
+---
+
 4. Data Sharing
 
 The Bot does not sell or share data with third parties.
 Data is only shared with external AI providers strictly for processing user requests.
 
+---
+
 5. Security
 
 Reasonable measures are taken to protect stored configuration data.
 However, no system is fully secure, and server owners should limit access to Bot commands appropriately.
+
+---
 
 6. Your Rights
 
@@ -52,6 +62,8 @@ You may request:
 - Removal of stored server configuration data
 - Resetting or deletion of settings
 - Server owners can remove the Bot at any time to stop all further data processing.
+
+---
 
 7. Contact
 
