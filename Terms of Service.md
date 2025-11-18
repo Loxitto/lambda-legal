@@ -1,6 +1,6 @@
 # Terms of Service
 
-Last updated: 17/11/2025
+Last updated: 18/11/2025
 
 By using this Discord bot (“the Bot”), you agree to the following Terms of Service.
 If you do not agree, you may remove the Bot from your server at any time.
@@ -37,6 +37,7 @@ You agree not to use the Bot to:
 - Harass, harm, or threaten others.
 - Automate mass-destruction of servers without authorization.
 - Engage in illegal, abusive, or malicious activities.
+
 The developer may restrict or revoke access if abuse is detected.
 
 ---
@@ -63,4 +64,5 @@ The developer reserves the right to:
 - Disable the Bot
 - Restrict access
 - Remove the Bot from servers
+
 at their discretion, especially in cases of abuse or Terms of Service violations.
